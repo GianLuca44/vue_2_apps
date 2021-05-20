@@ -1,4 +1,4 @@
-# aa_2
+# a vue-material app
 
 ## Project setup
 ```

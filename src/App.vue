@@ -5,12 +5,12 @@
 </template>
 
 <script>
-import Overlap from './components/HelloWorld.vue'
+import MainContainer from './components/MainContainer.vue'
 
 export default {
   name: 'App',
   components: {
-    Overlap
+    Overlap: MainContainer
   }
 }
 </script>
